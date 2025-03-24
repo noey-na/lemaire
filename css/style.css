@@ -358,11 +358,11 @@ body.bg {
 /* flex-wrap을 사용하는 경우 하단 여백도 gap으로 들어가면서 원하는 정렬이 나오지않음 */
 
 .sec_2 .collection_bottom .con1 {
-  background: url(/image/fw_01.jpg) no-repeat center top / cover;
+  background: url(../image/fw_01.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con2 {
-  background: url(/image/fw_02.jpg) no-repeat center top / cover;
+  background: url(../image/fw_02.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con3 {
@@ -370,33 +370,27 @@ body.bg {
 }
 
 .sec_2 .collection_bottom .con4 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_04.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_04.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con5 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_05.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_05.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con6 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_06.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_06.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con7 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_07.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_07.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con8 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_08.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_08.jpg) no-repeat center top / cover;
 }
 
 .sec_2 .collection_bottom .con9 {
-  background: url(./lemaire_renewal/웹4_예제이미지/image/fw_09.jpg) no-repeat
-    center top / cover;
+  background: url(../image/fw_09.jpg) no-repeat center top / cover;
 }
 
 /* -------------------------------------------------------- */
